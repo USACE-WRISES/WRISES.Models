@@ -17,18 +17,99 @@ output:
 
 # **What is WRISES?**
 
-Insert team description and why we build models.
+The Water Research Integrating Socio-ecological and Engineered Systems (WRISES) Team is part of the U.S. Army Engineer Research and Development Center's (ERDC) Environmental Laboratory (EL). The EL is one of seven research labs for the US Army Corps of Engineers (USACE). Our team's primary focus is finding practical, innovative, and environmentally sustainable solutions to the Nation's water resources challenges.
+
+Integrated water resource management is “a process which promotes the coordinated development and management of water, land and related resources, in order to maximize the resultant economic and social welfare in an equitable manner without compromising the sustainability of vital ecosystems” ([Global Water Partnership](https://www.gwp.org/en/GWP-CEE/about/why/what-is-iwrm/)). Our team generally works on the science, techniques, and tools to realize the vision of integrated water resource management.
+
+Many aspects of the team's work involve development and execution of numerical models to inform water resources decision-making. In particular, our team works extensively on ecological modeling and decision support tools, which we develop in partnership with [ERDC's EcoMod team](https://ecomod.erdc.dren.mil/). This site catalogs these tools by providing a brief description along with links to more details resources (i.e., documents, repos, packages, web apps).
 
 
-# **Ecosystem Assessment Tools**
+# **Ecological Modeling and Assessment**
+
+Many of our tools focus on assessing or forecasting ecological condition. Most of these models were designed to support ecosystem restoration decisions within the U.S. Army Corps of Engineers.  
+
+### *ecorest*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Geospatial Suitability Index (GSI)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Simple Model for Urban Riparian Function (SMURF)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+### *Riparian Ecological Functions Index (REFI)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+### *Web Application for Riparian Models (WARM)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *riverweed*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+### *Watershed Upstream Connectivity Toolkit (WUCT)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+# **Hydraulic and Hydrologic Modeling**
+
+Our work often links physical processes in aquatic ecosystems to ecological dynamics, so some of the tools we have developed focus on assessing physical processes with a particular emphasis on hydraulic and hydrologic modeling.  
+
+
+### *HYDraulic ROughness CALculator (HYDROCAL)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Rapid Hydraulic Assessment (RHA)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Life Safety Risk Index (LSRI)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Hyporheic Modeling Library*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+# **Decision Support**
+
+The WRISES team works extensively with USACE project development teams on ecosystem restoration and flood risk management studies. These efforts often include decision support modeling that synthesizes ecological outcomes with cost estimates and other factors.
+
+
+### *ecorest (again?!)*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *EngrEcon*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Dam Removal Cost Estimator*
+
+What is it? Links to documents, code, repos, web apps, etc.  
+
+
+### *Utoy Creek Decision Support Models*
+
+What is it? Links to documents, code, repos, web apps, etc.  
 
 Insert.
 
-ecorest 
-WUCT
-EngrEcon
-WARM
-EcoMod training
-dam removal cost estimation
-
+[IWR Planning Suite](http://www.iwr.usace.army.mil/Missions/Economics/IWR-Planning-Suite/)
 
