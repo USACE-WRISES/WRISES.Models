@@ -1,0 +1,26 @@
+---
+title: 'WRISES Models'
+author: "ERDC Environmental Laboratory"
+date: "May 2025"
+output:
+  html_document:
+    toc: no
+    toc_depth: 5
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+  word_document:
+    toc: yes
+    toc_depth: '5'
+---
+
+
+# **What is WRISES?**
+
+Insert team description and why we build models.
+
+
+# **Ecosystem Assessment Tools**
+
+Insert.
+
